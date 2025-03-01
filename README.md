@@ -9,7 +9,7 @@
 ### 打开命令提示符
 `<cmd.exe>`
 ### 定位到项目文件夹
-`<cd .../机器学习B课程设计>`
+`<cd .../swjtu_ML>`
 ### 安装依赖库
 `<conda install --yes --file requirements.txt>`
 
@@ -18,7 +18,7 @@
 `<conda activate ur_env_name>`
 
 ### 定位到项目文件夹
-`<cd .../kcsj>`
+`<cd .../swjtu_ML>`
 
 ### 运行某种方法
 `<python RF-AZD.py>`
